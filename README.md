@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Erica's Playground
 
 A place to play with `git`.
